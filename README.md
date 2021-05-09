@@ -1,7 +1,7 @@
 # cotizadorSegurosParaAutos
 Cotizador de suguros para autos usando prototype (herencias) de JavaScript
 
-### Tegnologias usadas
+### Tecnologias usadas
 + HTML
 + CSS
 + Tailwind CSS
