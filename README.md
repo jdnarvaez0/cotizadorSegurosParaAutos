@@ -1,4 +1,4 @@
-# cotizadorSegurosParaAutos
+# Cotizador De Seguro Para Autos
 Cotizador de suguros para autos usando prototype (herencias) de JavaScript
 
 ### Tecnologias usadas
